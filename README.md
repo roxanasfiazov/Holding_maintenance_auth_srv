@@ -1,2 +1,0 @@
-# Holding_maintenance_auth_srv
-Holding maintenance Spotify Authentication Server
